@@ -27,9 +27,9 @@ Linux, Bash scripting, and basic DevOps concepts.
 - Contains a list of websites (one per line)
 - Used as input by `project2.sh`
 
-Commands 
--git clone git clone https://github.com/Akshithvasu/Bash_scripts.git
--cd Bash_scripts
--chmod +x project1.sh project2.sh
--./project1.sh (for first one)
+- git clone git clone https://github.com/Akshithvasu/Bash_scripts.git
+- cd Bash_scripts
+- chmod +x project1.sh project2.sh
+- ./project1.sh (for first one)
 -./project2.sh (for second one)
+
