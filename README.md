@@ -26,8 +26,8 @@ Linux, Bash scripting, and basic DevOps concepts.
 ### 3️⃣ `input.txt`
 - Contains a list of websites (one per line)
 - Used as input by `project2.sh`
-
-- git clone git clone https://github.com/Akshithvasu/Bash_scripts.git
+### `Commands`
+- git clone https://github.com/Akshithvasu/Bash_scripts.git
 - cd Bash_scripts
 - chmod +x project1.sh project2.sh
 - ./project1.sh (for first one)
