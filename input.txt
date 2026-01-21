@@ -1,7 +1,7 @@
-https://google.com
-https://www.netflix.com
-https://www.amazon.com
-https://www.github.com
-https://www.microsoft.com
-https://www.cloudflare.com
-https://www.apple.com
+google.com
+netflix.com
+amazon.com
+github.com
+microsoft.com
+cloudflare.com
+apple.com
