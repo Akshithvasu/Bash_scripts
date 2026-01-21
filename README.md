@@ -31,5 +31,5 @@ Linux, Bash scripting, and basic DevOps concepts.
 - cd Bash_scripts
 - chmod +x project1.sh project2.sh
 - ./project1.sh (for first one)
--./project2.sh (for second one)
+- ./project2.sh (for second one)
 
